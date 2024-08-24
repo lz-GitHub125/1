@@ -116,3 +116,38 @@
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/image-20240816151044461.png)
 
 **下载链接**：https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/coastwatchSMOSv662SSS3day/2023/
+
+### 海洋生物数据的调研
+
+#### COPEPOD海洋生物数据集(COPEPOD marine biology dataset)
+
+**数据集摘要**：数据来源于美国国家海洋渔业中心海岸带与海洋浮游生态、生产和观测数据库，数据集区域为全球。西边经度：-180.0，东边经度：180.0，南边纬度：-78.5，北边纬度：89.0。数据起始时间为：1913.08.30-2013.08.29。共213821个站次。
+
+**下载链接**：https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=59
+
+#### 10米高分辨率全球红树林分布数据集(HGMF_2020)
+
+**数据集摘要**：可持续发展大数据国际研究中心（SDG中心）在高精度全球红树林制图研究方面取得进展，研制了首套高空间分辨率（10米）的全球红树林分布数据集（HGMF_2020）。利用遥感大数据和Google Earth Engine（GEE）云平台，集成影像最大值合成算法（MSIC）以及面向对象随机森林算法（OBRF），提出了一种高效、高精度、高鲁棒性的红树林制图方法体系，构建了首套高空间分辨率（10米）的全球红树林分布数据集，命名为HGMF_2020。
+
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/image-20240816174057030.png)
+
+**论文** ：https://doi.org/10.1016/j.scib.2023.05.004
+
+**下载链接**：https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PKAN93
+
+#### GLOBEC NEP MOCNESS Plankton (MOC1) Data, 2000-2002
+
+**数据集摘要**：该数据集来源于GLOBEC（Global Ocean Ecosystem Dynamics）项目的东北太平洋（NEP）子计划，具体收集时间为2000年至2002年。MOCNESS（Multiple Opening/Closing Net and Environmental Sensing System）是一种用于收集不同深度的浮游生物样本的系统。通过MOC1设备，研究人员能够获取分层的浮游生物数据，包括生物量、物种组成和丰度等关键信息。
+
+该数据集的核心是通过多次海洋采样，了解浮游生物的垂直分布特征以及其对环境变化的响应。数据可以用于研究海洋生态系统的动态变化、食物网结构、以及与气候变化相关的生态学问题，帮助深入理解海洋生态系统对环境变化的适应机制。
+
+![img](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/tabledap/erdGlobecMoc1.png?longitude,latitude,cast_no&time%3E=2000-05-24T00%3A00%3A00Z&time%3C2002-05-31T00%3A00%3A00Z&longitude%3E=-128.01&longitude%3C=-120.01&latitude%3E=40.94&latitude%3C=48.94&.draw=markers&.marker=5%7C5&.color=0x000000&.colorBar=%7C%7C%7C%7C%7C&.bgColor=0xffccccff)
+
+**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/erdGlobecMoc1/
+
+#### Image dataset of common benthic foraminifera in surface sediments of the North Atlantic Ocean
+
+**数据集摘要**：北大西洋表层沉积物中底栖有孔虫的图像数据集提供了106种不同类群的显微照片，这些数据对于研究海洋环境和古海洋学至关重要。这些有孔虫是了解海底环境条件的关键指标，图像集有助于物种识别和环境重建。
+
+**数据集下载**：https://doi.org/10.1016/j.dib.2019.104554
+
