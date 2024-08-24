@@ -163,4 +163,14 @@
 | [全球0.1度高分辨率海洋环流模式HYCOM数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1777794551860174850&otherId=1777794551939866626) | 该数据集是基于HYCOM2.3.01高分辨率准全球海洋模式，对全球温度、盐度、环流的模拟结果。该模式的空间范围为75°S-75°N，纬向与经向分辨率均为0.1°，垂向50层，时间分辨率为30日平均。 |
 | [Sea Surface Salinity, Miras SMOS, Near Real-Time, Global 0.25°, 2010-present, 3 Day Composite](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/coastwatchSMOSv662SSS3day/2023/) | 该数据集提供了自2010年以来的全球海表盐度（Sea Surface Salinity, SSS）的近实时观测数据，分辨率为0.25°。数据来源于欧洲航天局（ESA）的微波辐射成像卫星MIRAS（Microwave Imaging Radiometer with Aperture Synthesis），该卫星是土壤湿度和海洋盐度（SMOS, Soil Moisture and Ocean Salinity）任务的一部分。 |
 
+### 海洋生物数据集下载
+
+|                          数据集名称                          |                          数据集简介                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [COPEPOD海洋生物数据集](https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=59) | 数据来源于美国国家海洋渔业中心海岸带与海洋浮游生态、生产和观测数据库，数据集区域为全球。西边经度：-180.0，东边经度：180.0，南边纬度：-78.5，北边纬度：89.0。数据起始时间为：1913.08.30-2013.08.29。共213821个站次。 |
+| [10米高分辨率全球红树林分布数据集](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PKAN93) | 可持续发展大数据国际研究中心（SDG中心）在高精度全球红树林制图研究方面取得进展，研制了首套高空间分辨率（10米）的全球红树林分布数据集（HGMF_2020）。 |
+| [GLOBEC NEP MOCNESS Plankton (MOC1) Data, 2000-2002](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/erdGlobecMoc1/) | MOCNESS（Multiple Opening/Closing Net and Environmental Sensing System）是一种用于收集不同深度的浮游生物样本的系统。通过MOC1设备，研究人员能够获取分层的浮游生物数据，包括生物量、物种组成和丰度等关键信息。 |
+| [Image dataset of common benthic foraminifera in surface sediments of the North Atlantic Ocean](https://doi.org/10.1016/j.dib.2019.104554) |     在26个抓取站收集的表层沉积物中106个底栖有孔虫分类群      |
+
+
 
