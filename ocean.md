@@ -8,7 +8,8 @@
 根据海洋环境特征，我们可以将海洋数据分为地质数据。
 
 > 地质数据：海底地形、海底地壳活动
-> 沉积物数据：沉积物分布、沉积物厚度
+> 沉积物数据：海底沉积物分布、沉积物厚度
+> 元素数据：海底元素含量和分布
 
 ### 海底地质调研
 
@@ -39,18 +40,6 @@
 图2  ETOPO1基岩全球地形模型（Bedrock Global Relief Model）
 
 **数据集下载**：https://www.ncei.noaa.gov/products/etopo-global-relief-model
-
-#### 多金属结核主量元素数据(Major elements of polymetallic nodule)
-
-**数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成多金属结核主量元素标准数据集。数据量共计1018站,2551个样品，空间范围覆盖全球大部分海域（-180°～180°E，-65.62°～66.68°N），数据要素项包括Mn、Fe、Co、Ni、Cu、Zn、Pb、Al、Si等元素百分含量。
-
-**下载链接** ：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30
-
-#### 富钴结壳主量元素数据（Major elements of cobalt-rich crust）
-
-**数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成富钴结壳主量元素标准数据集。数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。
-
-**下载链接**：https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=21
 
 #### 3弧秒（90 m）全球DEM数据集GDEM_2022
 
@@ -118,6 +107,19 @@
 #### Deck41表层海底沉积物描述数据库
 
 **下载链接**：https://www.ngdc.noaa.gov/mgg/geology/data/g02094/
+### 海底元素调研：
+
+#### 多金属结核主量元素数据(Major elements of polymetallic nodule)
+
+**数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成多金属结核主量元素标准数据集。数据量共计1018站,2551个样品，空间范围覆盖全球大部分海域（-180°～180°E，-65.62°～66.68°N），数据要素项包括Mn、Fe、Co、Ni、Cu、Zn、Pb、Al、Si等元素百分含量。
+
+**下载链接** ：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30
+
+#### 富钴结壳主量元素数据（Major elements of cobalt-rich crust）
+
+**数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成富钴结壳主量元素标准数据集。数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。
+
+**下载链接**：https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=21
 
 
 ## 海底数据集下载
@@ -128,14 +130,21 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [GEBCO海洋数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=3&did=&dataSetId=86-1) | 数据来源于全球海陆数据库（GEBCO），全球海陆栅格地形数据，数据分辨率为30″，约为900m，数据公布时间为2014年。 |
 | [ETOPO全球地势模型](https://www.ncei.noaa.gov/products/etopo-global-relief-model) | ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。 |
-| [多金属结核主量元素数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30) | 数据量共计1018站,2551个样品，空间范围覆盖全球大部分海域（-180°～180°E，-65.62°～66.68°N），数据要素项包括Mn、Fe、Co、Ni、Cu、Zn、Pb、Al、Si等元素百分含量。 |
-| [富钴结壳主量元素数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=21) | 数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。 |
 | [3弧秒（90 m）全球DEM数据集GDEM_2022](https://cloud.tsinghua.edu.cn/d/695ed43696564904980f) | GDEM_2022是由清华大学发布的全球3弧秒（约90米）分辨率的海陆数字高程模型数据集。该数据集利用深度学习和迁移学习技术，基于NASA和GEBCO数据，提供了比传统方法更精确的地形信息，支持全球气候变化、海洋研究等领域。 |
 | [Seton et al. (2020) - present day age grid and seafloor spreading parameters](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/) | 新的海洋地壳年龄网格以及扩散速率、不对称性、方向性和倾斜度的互补网格 |
+
 ### 海底沉积物数据集下载
+
 |                          数据集名称                          |                          数据集简介                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm](https://doi.pangaea.de/10.1594/PANGAEA.911692) |         对全球海洋深海沉积物的海底岩性进行了空间预测         |
 | [Total sediment thickness of the World’s Oceans & Marginal Seas, version 2](https://www.earthbyte.org/total-sediment-thickness-of-the-worlds-oceans-marginal-seas-version-2/) |                世界海洋和边缘海的总沉积物厚度                |
 | [NGDC Seafloor Sediment Grain Size Database](https://www.ngdc.noaa.gov/mgg/geology/data/g00127/) | NGDC海底沉积物粒度数据库包含全球 17,000 多个海底样本的粒度数据 |
 | [Deck41 表层海底沉积物描述数据库](https://www.ngdc.noaa.gov/mgg/geology/data/g02094/) |  Deck41 是全球 36,401 个海底样本的表层沉积物成分的数字摘要   |
+
+### 海底元素数据集下载
+
+|                          数据集名称                          |                          数据集简介                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [多金属结核主量元素数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30) | 数据量共计1018站,2551个样品，空间范围覆盖全球大部分海域（-180°～180°E，-65.62°～66.68°N），数据要素项包括Mn、Fe、Co、Ni、Cu、Zn、Pb、Al、Si等元素百分含量。 |
+| [富钴结壳主量元素数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=21) | 数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。 |
