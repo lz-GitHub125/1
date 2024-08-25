@@ -131,7 +131,7 @@
 | [GEBCO海洋数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=3&did=&dataSetId=86-1) | 数据来源于全球海陆数据库（GEBCO），全球海陆栅格地形数据，数据分辨率为30″，约为900m，数据公布时间为2014年。 |
 | [ETOPO全球地势模型](https://www.ncei.noaa.gov/products/etopo-global-relief-model) | ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。 |
 | [3弧秒（90 m）全球DEM数据集GDEM_2022](https://cloud.tsinghua.edu.cn/d/695ed43696564904980f) | GDEM_2022是由清华大学发布的全球3弧秒（约90米）分辨率的海陆数字高程模型数据集。该数据集利用深度学习和迁移学习技术，基于NASA和GEBCO数据，提供了比传统方法更精确的地形信息，支持全球气候变化、海洋研究等领域。 |
-| [Seton et al. (2020) - present day age grid and seafloor spreading parameters](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/) | 新的海洋地壳年龄网格以及扩散速率、不对称性、方向性和倾斜度的互补网格 |
+| [age.2020.1.GTS2012.6m.nc) | 新的海洋地壳年龄网格以及扩散速率、不对称性、方向性和倾斜度的互补网格 |全球不同地区的海底地壳年龄|
 
 ### 海底沉积物数据集下载
 
