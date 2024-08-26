@@ -110,7 +110,7 @@
 
 **下载链接**：https://doi.pangaea.de/10.1594/PANGAEA.911692
 
-#### Total sediment thickness of the World’s Oceans & Marginal Seas, version 2 
+#### 🌟Total sediment thickness of the World’s Oceans & Marginal Seas, version 2 
 
 **数据集摘要**：Total Sediment Thickness of the World’s Oceans & Marginal Seas, version 2 是一个全球性的海洋沉积物厚度数据库。这个数据集由Gaina等人在2019年通过Geochemistry, Geophysics, Geosystems期刊发表，名为GlobSed。它提供了一个5弧分钟分辨率的全球海洋和边缘海的总沉积物厚度网格28。与之前的全球网格相比，GlobSed覆盖了更大的区域，并且在北大西洋、北极、南大洋和地中海区域进行了更新，导致估算的总海洋沉积物体积增加了29.7%28。
 
@@ -120,11 +120,11 @@
 
 **下载链接**：https://www.earthbyte.org/total-sediment-thickness-of-the-worlds-oceans-marginal-seas-version-2/
 
-#### NGDC Seafloor Sediment Grain Size Database
+#### 🌟NGDC Seafloor Sediment Grain Size Database
 
 **下载链接**：https://www.ngdc.noaa.gov/mgg/geology/data/g00127/
 
-#### Deck41表层海底沉积物描述数据库
+#### 🌟Deck41表层海底沉积物描述数据库
 
 **下载链接**：https://www.ngdc.noaa.gov/mgg/geology/data/g02094/
 ### 海底元素调研：
