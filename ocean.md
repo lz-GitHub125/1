@@ -24,6 +24,7 @@
 - **数据格式**：NetCDF、GeoTIFF等多种格式，便于不同应用场景使用。
 
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240819193559.png)
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/6f4f838765fcf5d37180752daed2315.png)
 
 **数据下载**：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=3&did=&dataSetId=86-1
 
