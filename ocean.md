@@ -86,6 +86,12 @@
 
 **数据集下载**：https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/
 
+#### 🌟InterRidge Vents：全球海底热液喷口分布和相关研究数据。
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/Figure_1.png)
+http://vents-data.interridge.org/
+
+
+
 
 ### 海底沉积物调研：
 
