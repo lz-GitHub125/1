@@ -83,7 +83,7 @@
 
 **数据集摘要**：NCEI 的全球海洋沉积物厚度网格 Divins （2003） 由 Whittaker 更新 et al. （2013） 再次更新了东北大西洋、北极、南大洋、 和地中海地区。
 🌟Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
-![image](https://github.com/user-attachments/assets/7f247da4-8ac1-4c1d-8db7-cd6879812ce4)
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240826144339.png)
 **下载链接**:https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Geophysics/iso/xml/G01065_v3.xml&view=getDataView&header=none
 
 🌟Total Sediment Thickness of the World's Oceans and Marginal Seas, Version 2
@@ -158,6 +158,8 @@
 | [Total sediment thickness of the World’s Oceans & Marginal Seas, version 2](https://www.earthbyte.org/total-sediment-thickness-of-the-worlds-oceans-marginal-seas-version-2/) |                世界海洋和边缘海的总沉积物厚度                |
 | [NGDC Seafloor Sediment Grain Size Database](https://www.ngdc.noaa.gov/mgg/geology/data/g00127/) | NGDC海底沉积物粒度数据库包含全球 17,000 多个海底样本的粒度数据 |
 | [Deck41 表层海底沉积物描述数据库](https://www.ngdc.noaa.gov/mgg/geology/data/g02094/) |  Deck41 是全球 36,401 个海底样本的表层沉积物成分的数字摘要   |
+|[ Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Geophysics/iso/xml/G01065_v3.xml&view=getDataView&header=none)|NCEI 的全球海洋沉积物厚度网格 Divins 由 Whittaker 更新 et al. 再次更新了东北大西洋、北极、南大洋、 和地中海地区。|
+| [Total Sediment Thickness of the World's Oceans and Marginal Seas, Version 2](https://www.ngdc.noaa.gov/mgg/sedthick/sedthick.html)|世界海洋和边缘海域的数字总沉积物厚度数据库由 NOAA 国家地球物理数据中心 （NGDC）|
 
 ### 海底元素数据集下载
 
