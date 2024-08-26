@@ -86,6 +86,10 @@
 ![image](https://github.com/user-attachments/assets/7f247da4-8ac1-4c1d-8db7-cd6879812ce4)
 **下载链接**:https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Geophysics/iso/xml/G01065_v3.xml&view=getDataView&header=none
 
+🌟Total Sediment Thickness of the World's Oceans and Marginal Seas, Version 2
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240826144239.png)
+**下载链接**：https://www.ngdc.noaa.gov/mgg/sedthick/sedthick.html
+
 
 🌟深海沉积物空间分布：
 
