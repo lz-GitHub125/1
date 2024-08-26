@@ -8,7 +8,9 @@
 根据海洋环境特征，我们可以将海洋数据分为地质数据、海底沉积物数据和海底元素。
 
 > 地质数据：海底地形、海底地壳活动
+> 
 > 沉积物数据：海底沉积物分布、沉积物厚度
+> 
 > 元素数据：海底元素含量和分布
 
 ### 海底地质调研
@@ -76,9 +78,14 @@
 **数据集下载**：https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/
 
 ### 海底沉积物调研：
-#### Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
 
-**数据集摘要**：这个数据集利用随机森林机器学习算法对全球深海沉积物进行了映射。它通过分析各种海洋地质和地球物理数据，创建了一个全球深海沉积物分布的详细图谱。数据集包含了深海沉积物的类型、厚度和分布特征，为研究深海地质环境、古海洋学、海底资源分布和全球气候变化提供了宝贵的信息。随机森林算法的应用提高了沉积物分类的准确性，并允许在数据稀疏区域进行有效的预测，从而为深海勘探和环境评估提供了强有力的技术支持。
+#### GlobSed：世界海洋中最新的沉积物总厚度
+
+**数据集摘要**：NCEI 的全球海洋沉积物厚度网格 Divins （2003） 由 Whittaker 更新 et al. （2013） 再次更新了东北大西洋、北极、南大洋、 和地中海地区。
+🌟Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
+![image](https://github.com/user-attachments/assets/7f247da4-8ac1-4c1d-8db7-cd6879812ce4)
+**下载链接**:https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Geophysics/iso/xml/G01065_v3.xml&view=getDataView&header=none
+
 
 🌟深海沉积物空间分布：
 
