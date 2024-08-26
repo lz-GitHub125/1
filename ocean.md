@@ -87,7 +87,7 @@
 **数据集下载**：https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/
 
 #### 🌟InterRidge Vents：全球海底热液喷口分布和相关研究数据。
-![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/Figure_1.png)
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240826191101.png)
 http://vents-data.interridge.org/
 
 
@@ -169,6 +169,7 @@ http://vents-data.interridge.org/
 | [obliq.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张的方向与洋中脊垂直方向的夹角|
 | [asym.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张不对称性是指在海底扩张过程中，两侧的扩张速率或形态不一致的现象|
 | [SRTM30 PLUS](https://topex.ucsd.edu/pub/srtm30_plus/srtm30/grd/)|SRTM30 PLUS 数据集是一个全球性的地形数据集，结合了SRTM的陆地地形数据和多来源的海底测深数据，提供了30弧秒分辨率的全球地形信息|
+| [InterRidge Vents](http://vents-data.interridge.org/)|全球海底热液喷口分布和相关研究数据|
 
 ### 海底沉积物数据集下载
 
