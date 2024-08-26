@@ -48,13 +48,7 @@
 
 **数据集摘要**：ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。该模型旨在支持海啸预报、建模和预警，以及海洋环流建模和地球可视化。当前版本ETOPO 2022有冰面和基岩版本，描绘了覆盖格陵兰岛和南极洲的冰盖顶层，或下面的基岩。
 
-![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/picture2.jpg)
-
-图1  ETOPO1冰盖全球地形模型（Ice Surface Global Relief Model）
-
-![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/picture3.jpg)
-
-图2  ETOPO1基岩全球地形模型（Bedrock Global Relief Model）
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240826170313.png)
 
 **数据集下载**：https://www.ncei.noaa.gov/products/etopo-global-relief-model
 
