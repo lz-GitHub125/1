@@ -146,7 +146,7 @@ http://vents-data.interridge.org/
 * 数据格式：xls
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240826184820.png)
 **下载链接** ：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30
-#### 🌟#### 富钴结壳主量元素数据（Major elements of cobalt-rich crust）
+#### 🌟富钴结壳主量元素数据（Major elements of cobalt-rich crust）
 
 **数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成富钴结壳主量元素标准数据集。数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。
 
