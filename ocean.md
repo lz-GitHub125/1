@@ -43,7 +43,6 @@
 **不同海域海底地形可视化图**
 
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240826170130.png)
-
 🌟#### **ETOPO1全球地形模型** 
 
 **数据集摘要**：ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。该模型旨在支持海啸预报、建模和预警，以及海洋环流建模和地球可视化。当前版本ETOPO 2022有冰面和基岩版本，描绘了覆盖格陵兰岛和南极洲的冰盖顶层，或下面的基岩。
@@ -61,20 +60,26 @@
 上图为3弧秒（90 m）全球DEM数据集GDEM_2022
 
 **数据集下载**：https://cloud.tsinghua.edu.cn/d/695ed43696564904980f
-
-🌟#### 海洋地壳年龄：海洋地壳的年龄可以反映地壳形成和演化的过程，以及与之相关的地质活动。
+#### 🌟 age.2020.1.GTS2012.6m.nc
+**数据集摘要**: age.2020.1.GTS2012.6m.nc主要整合了全球海底地壳的年龄。该数据集包含的海洋地壳的年龄可以反映地壳形成和演化的过程，以及与之相关的地质活动。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825124258.png)
-🌟#### 海底扩张方向：海底扩张方向是指海底地壳在洋中脊或板块边界处形成和移动的方向。
+#### 🌟 dir.2020.1.GeeK2007.6m.nc
+**数据集摘要**：dir.2020.1.GeeK2007.6m.nc整合了海底扩张方向。该数据集包含的海底扩张方向是指海底地壳在洋中脊或板块边界处形成和移动的方向。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825124454.png)
-🌟#### 海底扩散倾角：海底扩张的方向与洋中脊垂直方向的夹角。
+#### 🌟 obliq.2020.1.GeeK2007.6m.nc
+**数据集摘要**：obliq.2020.1.GeeK2007.6m.nc整合了海底扩散倾角。海底扩散倾角是指海底扩张的方向与洋中脊垂直方向的夹角。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825124627.png)
-🌟#### 海底扩张不对称性：海底扩张不对称性是指在海底扩张过程中，两侧的扩张速率或形态不一致的现象。
+#### 🌟 asym.2020.1.GeeK2007.6m.nc
+**数据集摘要**：asym.2020.1.GeeK2007.6m.nc整合了海底扩张不对称性，该数据集包含的海底扩张不对称性是指在海底扩张过程中，两侧的扩张速率或形态不一致的现象。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825124805.png)
-🌟#### 海底地壳年龄误差：全球范围内年龄网格与年龄约束之间的误差。
+#### 🌟 age_misfit.2020.1.GeeK2007.6m.nc
+**数据集摘要**：age_misfit.2020.1.GeeK2007.6m.nc整合了海底地壳年龄误差，该数据集包含的海底地壳年龄误差是指全球范围内年龄网格与年龄约束之间的误差。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825125055.png)
-🌟#### 海底地壳扩散率：海底扩张速率是指海底地壳在洋中脊或板块边界处形成和移动的速度
+#### 🌟 full_rate_bands.2020.1.GTS2012.6m.nc
+**数据集摘要**：full_rate_bands.2020.1.GTS2012.6m.nc整合了海底地壳扩散率，该数据集包含的海底扩张速率是指海底地壳在洋中脊或板块边界处形成和移动的速度
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825125422.png)
-🌟#### 海底地壳估计年龄可信度：表示对地质年龄估计的可信度。
+#### 🌟 conf.2020.1.GeeK2007.6m.nc
+**数据集摘要**：conf.2020.1.GeeK2007.6m.nc整合了海底地壳估计年龄可信度，其表示对地质年龄估计的可信度。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240825125741.png)
 
 **论文链接**：https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GC009214
@@ -84,19 +89,20 @@
 
 ### 海底沉积物调研：
 
-#### GlobSed：世界海洋中最新的沉积物总厚度
+#### 🌟GlobSed：世界海洋中最新的沉积物总厚度
 
 **数据集摘要**：NCEI 的全球海洋沉积物厚度网格 Divins （2003） 由 Whittaker 更新 et al. （2013） 再次更新了东北大西洋、北极、南大洋、 和地中海地区。
-🌟Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240826144339.png)
 **下载链接**:https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Geophysics/iso/xml/G01065_v3.xml&view=getDataView&header=none
 
-🌟Total Sediment Thickness of the World's Oceans and Marginal Seas, Version 2
+#### 🌟Total Sediment Thickness of the World's Oceans and Marginal Seas, Version 2
+**数据集摘要**：Total Sediment Thickness of the World's Oceans and Marginal Seas, Version 2提供了世界海洋和边缘海的沉积物厚度数据的全球网格。该数据集中的主要变量是沉积在海底和边缘海的沉积物的厚度。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240826144239.png)
 **下载链接**：https://www.ngdc.noaa.gov/mgg/sedthick/sedthick.html
 
 
-🌟深海沉积物空间分布：
+### 🌟 Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
+**数据集摘要**:该数据集提供了有关全球海洋深海沉积物分布和特征的信息。深海沉积物包括各种类型的材料。
 
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/b5e5b737ee8a83b3bf41047a639dd92.png)
 
@@ -107,8 +113,6 @@
 #### Total sediment thickness of the World’s Oceans & Marginal Seas, version 2 
 
 **数据集摘要**：Total Sediment Thickness of the World’s Oceans & Marginal Seas, version 2 是一个全球性的海洋沉积物厚度数据库。这个数据集由Gaina等人在2019年通过Geochemistry, Geophysics, Geosystems期刊发表，名为GlobSed。它提供了一个5弧分钟分辨率的全球海洋和边缘海的总沉积物厚度网格28。与之前的全球网格相比，GlobSed覆盖了更大的区域，并且在北大西洋、北极、南大洋和地中海区域进行了更新，导致估算的总海洋沉积物体积增加了29.7%28。
-
-🌟世界海洋和边缘海的总沉积物厚度：在边缘地区，沉积物厚度估计是通过速度-深度（velocity-depth）反射数据计算得出的。
 
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/1749768499028682ad438d146b81d26.png)
 
