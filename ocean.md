@@ -151,12 +151,13 @@
 | [ETOPO全球地势模型](https://www.ncei.noaa.gov/products/etopo-global-relief-model) | ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。 |
 | [3弧秒（90 m）全球DEM数据集GDEM_2022](https://cloud.tsinghua.edu.cn/d/695ed43696564904980f) | GDEM_2022是由清华大学发布的全球3弧秒（约90米）分辨率的海陆数字高程模型数据集。该数据集利用深度学习和迁移学习技术，基于NASA和GEBCO数据，提供了比传统方法更精确的地形信息，支持全球气候变化、海洋研究等领域。 |
 | [age.2020.1.GTS2012.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/) | 新的海洋地壳年龄网格以及扩散速率、不对称性、方向性和倾斜度的互补网格 |全球不同地区的海底地壳年龄|
-|[age_misfit.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|全球范围内年龄网格与年龄约束之间的误差|
-|[full_rate_bands.2020.1.GTS2012.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张速率指海底地壳在洋中脊或板块边界处形成和移动的速度|
-|[dir.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张方向是指海底地壳在洋中脊或板块边界处形成和移动的方向|
-|[conf.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|地质年龄估计的可信度|
-|[obliq.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张的方向与洋中脊垂直方向的夹角|
-|[asym.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张不对称性是指在海底扩张过程中，两侧的扩张速率或形态不一致的现象|
+| [age_misfit.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|全球范围内年龄网格与年龄约束之间的误差|
+| [full_rate_bands.2020.1.GTS2012.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张速率指海底地壳在洋中脊或板块边界处形成和移动的速度|
+| [dir.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张方向是指海底地壳在洋中脊或板块边界处形成和移动的方向|
+| [conf.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|地质年龄估计的可信度|
+| [obliq.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张的方向与洋中脊垂直方向的夹角|
+| [asym.2020.1.GeeK2007.6m.nc](https://www.earthbyte.org/webdav/ftp/earthbyte/agegrid/2020/Grids/)|海底扩张不对称性是指在海底扩张过程中，两侧的扩张速率或形态不一致的现象|
+| [SRTM30 PLUS](https://topex.ucsd.edu/pub/srtm30_plus/srtm30/grd/)|SRTM30 PLUS 数据集是一个全球性的地形数据集，结合了SRTM的陆地地形数据和多来源的海底测深数据，提供了30弧秒分辨率的全球地形信息|
 
 ### 海底沉积物数据集下载
 
