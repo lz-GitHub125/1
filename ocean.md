@@ -101,7 +101,7 @@
 **下载链接**：https://www.ngdc.noaa.gov/mgg/sedthick/sedthick.html
 
 
-### 🌟 Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
+#### 🌟 Deep-sea sediments of the global ocean mapped with Random Forest machine learning algorithm
 **数据集摘要**:该数据集提供了有关全球海洋深海沉积物分布和特征的信息。深海沉积物包括各种类型的材料。
 
 ![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/b5e5b737ee8a83b3bf41047a639dd92.png)
@@ -133,8 +133,12 @@
 
 **数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成多金属结核主量元素标准数据集。数据量共计1018站,2551个样品，空间范围覆盖全球大部分海域（-180°～180°E，-65.62°～66.68°N），数据要素项包括Mn、Fe、Co、Ni、Cu、Zn、Pb、Al、Si等元素百分含量。
 
-**下载链接** ：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30
+**基本信息**：
 
+* 空间范围：全球大部分海域（-180°～180°E，-65.62°～66.68°N）
+* 数据格式：xls
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240826184820.png)
+**下载链接** ：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30
 #### 🌟富钴结壳主量元素数据（Major elements of cobalt-rich crust）
 
 **数据集摘要** ：原始来源为国际海底管理局（ISA），对原始数据进行了表头规范化、信息补充、范围检验、统计分析、错误值剔除和排重等处理，形成富钴结壳主量元素标准数据集。数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。
