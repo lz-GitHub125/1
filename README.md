@@ -34,7 +34,7 @@
 
 **下载链接** ：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456516931682066433&otherId=1456516931803701249
 
-### **IAP全球海洋温度1°格点数据集(IAP Global Ocean Temperature 1° Gridded Dataset)**
+### 🌟**IAP全球海洋温度1°格点数据集(IAP Global Ocean Temperature 1° Gridded Dataset)**
 **基本信息** :
 
 时间范围:1940/01-2023/12          水平分辨率:  1° 
@@ -50,7 +50,7 @@
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/IAP%20temp-1705313270219.png)
 **下载链接** ：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1746836580808540162&otherId=1746836581001478146
 
-### **全球海洋盐度数据集(Global Ocean Salinity Dataset)**
+### 🌟**全球海洋盐度数据集(Global Ocean Salinity Dataset)**
 **数据集摘要** ：由中科院海洋大科学研究中心共建单位大气所成里京研究员和朱江研究员牵头研制的全球海洋温度数据集，主要基于XBT、CTD、Argo、MBT、Glider等所有可搜集到的现场观测数据。
 时间范围:  1940/01-2023/09          水平分辨率:  1°×1°
 
@@ -66,7 +66,7 @@
 
 **下载链接** : http://msdc.qdio.ac.cn/data/metadata-special-detail?id=9&otherId=3
 
-#### **全球0.1度高分辨率海洋环流模式HYCOM数据产品（HYCOM Global 0.1-degree high-resolution ocean circulation model data products）**
+#### 🌟**全球0.1度高分辨率海洋环流模式HYCOM数据产品（HYCOM Global 0.1-degree high-resolution ocean circulation model data products）**
 
 **数据集摘要**：该数据集是基于HYCOM2.3.01高分辨率准全球海洋模式，对全球温度、盐度、环流的模拟结果。该模式的空间范围为75°S-75°N，纬向与经向分辨率均为0.1°，垂向50层，时间分辨率为30日平均。采用ETOPO1数据改进模式地形，利用ERA5逐时大气变量驱动CTRL实验。
 
@@ -86,7 +86,7 @@
 
 **下载链接**：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1777794551860174850&otherId=1777794551939866626
 
-#### **Sea Surface Salinity, Miras SMOS, Near Real-Time, Global 0.25°, 2010-present, 3 Day Composite**
+#### 🌟**Sea Surface Salinity, Miras SMOS, Near Real-Time, Global 0.25°, 2010-present, 3 Day Composite**
 
 **数据集摘要**：该数据集提供了自2010年以来的全球海表盐度（Sea Surface Salinity, SSS）的近实时观测数据，分辨率为0.25°。数据来源于欧洲航天局（ESA）的微波辐射成像卫星MIRAS（Microwave Imaging Radiometer with Aperture Synthesis），该卫星是土壤湿度和海洋盐度（SMOS, Soil Moisture and Ocean Salinity）任务的一部分。数据集通过每3天合成一次，提供了全球海表盐度的时空分布信息，适用于气候研究、海洋循环模式分析以及与海洋和大气过程相关的各类应用。这些数据可以帮助研究者深入了解全球水循环、海洋动态及其对气候变化的响应。
 
@@ -98,13 +98,13 @@
 
 ### 海洋生物数据的调研
 
-#### COPEPOD海洋生物数据集(COPEPOD marine biology dataset)
+#### 🌟COPEPOD海洋生物数据集(COPEPOD marine biology dataset)
 
 **数据集摘要**：数据来源于美国国家海洋渔业中心海岸带与海洋浮游生态、生产和观测数据库，数据集区域为全球。西边经度：-180.0，东边经度：180.0，南边纬度：-78.5，北边纬度：89.0。数据起始时间为：1913.08.30-2013.08.29。共213821个站次。
 
 **下载链接**：https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=59
 
-#### 10米高分辨率全球红树林分布数据集(HGMF_2020)
+#### 🌟10米高分辨率全球红树林分布数据集(HGMF_2020)
 
 **数据集摘要**：可持续发展大数据国际研究中心（SDG中心）在高精度全球红树林制图研究方面取得进展，研制了首套高空间分辨率（10米）的全球红树林分布数据集（HGMF_2020）。利用遥感大数据和Google Earth Engine（GEE）云平台，集成影像最大值合成算法（MSIC）以及面向对象随机森林算法（OBRF），提出了一种高效、高精度、高鲁棒性的红树林制图方法体系，构建了首套高空间分辨率（10米）的全球红树林分布数据集，命名为HGMF_2020。
 
@@ -114,7 +114,7 @@
 
 **下载链接**：https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PKAN93
 
-#### GLOBEC NEP MOCNESS Plankton (MOC1) Data, 2000-2002
+#### 🌟GLOBEC NEP MOCNESS Plankton (MOC1) Data, 2000-2002
 
 **数据集摘要**：该数据集来源于GLOBEC（Global Ocean Ecosystem Dynamics）项目的东北太平洋（NEP）子计划，具体收集时间为2000年至2002年。MOCNESS（Multiple Opening/Closing Net and Environmental Sensing System）是一种用于收集不同深度的浮游生物样本的系统。通过MOC1设备，研究人员能够获取分层的浮游生物数据，包括生物量、物种组成和丰度等关键信息。
 
@@ -124,7 +124,7 @@
 
 **数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/erdGlobecMoc1/
 
-#### Image dataset of common benthic foraminifera in surface sediments of the North Atlantic Ocean
+#### 🌟Image dataset of common benthic foraminifera in surface sediments of the North Atlantic Ocean
 
 **数据集摘要**：北大西洋表层沉积物中底栖有孔虫的图像数据集提供了106种不同类群的显微照片，这些数据对于研究海洋环境和古海洋学至关重要。这些有孔虫是了解海底环境条件的关键指标，图像集有助于物种识别和环境重建。
 
