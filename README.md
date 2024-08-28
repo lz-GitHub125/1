@@ -156,13 +156,22 @@
 #### 🌟A2003092.L3m_DAY_CHL_chlor_a_4km.nc
 **数据集摘要**:该数据集包含空间分辨率为 4 公里的每日叶绿素 a 浓度数据。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240828172748.png)
-**数据集下载**：[https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMH1chla1day/A2003092.L3m_DAY_CHL_chlor_a_4km.nc)
+**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMH1chla1day/A2003092.L3m_DAY_CHL_chlor_a_4km.nc
 
 #### 🌟A2012001.L3m_DAY_PIC_pic_4km.nc
 **数据集摘要**：该数据集按纬度、经度和时间维度进行组织，其中变量表示颗粒无机碳浓度。这些数据对于了解海洋碳动力学、钙化生物及其在全球生物地球化学循环中的作用很有价值。
 ![image](https://github.com/user-attachments/assets/ffbd1b4f-b3cc-4be5-a6ba-98f72cb47ba9)
 **数据集下载**:https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPIC1day_Lon0360/2012/A2012001.L3m_DAY_PIC_pic_4km.nc
 
+#### 🌟A2012001.L3m_DAY_POC_poc_4km.nc
+**数据集摘要**：该数据集按纬度、经度和时间维度进行组织，其中变量表示有机碳颗粒浓度。这些数据为海洋中的生物碳封存、全球碳收支和海洋生态系统的健康状况提供了宝贵的见解。研究人员使用这些信息来研究海洋生产力、碳通量以及气候变化对海洋碳循环的影响。
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240828193900.png)
+**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc
+
+#### 🌟Chlorophyll-a, Aqua MODIS, NPP, 0.0125 degrees, Gulf of Mexico, EXPERIMENTAL
+**数据集摘要**:该数据集提供了墨西哥湾地区的叶绿素-a浓度信息，基于Aqua卫星的中分辨率成像光谱仪（MODIS）数据生成。叶绿素-a浓度是衡量水体中浮游植物丰度的重要指标，广泛应用于海洋初级生产力和生态系统健康研究。数据的空间分辨率为0.0125度，能够较为详细地反映墨西哥湾的叶绿素-a分布情况，时间分辨率通常为每日或更频繁。由于数据集为实验性（EXPERIMENTAL），在使用时需谨慎，建议结合其他数据集以确保结果的可靠性。
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/6d7036c4eef307c96f1db7dcf91373f.png)
+**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMGchlamday/
 
 
 ## 海洋数据集下载
@@ -173,7 +182,6 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [全球0.5度海洋盐度格点数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456516931682066433&otherId=1456516931803701249) | 全球0.5度海洋盐度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括CTD, Argo, Bottle, Glider, mooring等观测仪器。 |
 | [IAP全球海洋温度1°格点数据集](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1746836580808540162&otherId=1746836581001478146) | 该数据集的原始数据为来自全球海洋数据库（WOD）中的所有现场观测数据 |
-| [全球0.5度海洋温度格点数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456577680076988418&otherId=1456577680144097281) | 全球0.5度海洋温度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括XBT, CTD, Argo, Bottle, MBT, Glider, mooring等观测仪器。 |
 | [全球0.1度高分辨率海洋环流模式HYCOM数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1777794551860174850&otherId=1777794551939866626) | 该数据集是基于HYCOM2.3.01高分辨率准全球海洋模式，对全球温度、盐度、环流的模拟结果。该模式的空间范围为75°S-75°N，纬向与经向分辨率均为0.1°，垂向50层，时间分辨率为30日平均。 |
 | [Sea Surface Salinity, Miras SMOS, Near Real-Time, Global 0.25°, 2010-present, 3 Day Composite](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/coastwatchSMOSv662SSS3day/2023/) | 该数据集提供了自2010年以来的全球海表盐度（Sea Surface Salinity, SSS）的近实时观测数据，分辨率为0.25°。数据来源于欧洲航天局（ESA）的微波辐射成像卫星MIRAS（Microwave Imaging Radiometer with Aperture Synthesis），该卫星是土壤湿度和海洋盐度（SMOS, Soil Moisture and Ocean Salinity）任务的一部分。 |
 
@@ -185,6 +193,21 @@
 | [10米高分辨率全球红树林分布数据集](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PKAN93) | 可持续发展大数据国际研究中心（SDG中心）在高精度全球红树林制图研究方面取得进展，研制了首套高空间分辨率（10米）的全球红树林分布数据集（HGMF_2020）。 |
 | [GLOBEC NEP MOCNESS Plankton (MOC1) Data, 2000-2002](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/erdGlobecMoc1/) | MOCNESS（Multiple Opening/Closing Net and Environmental Sensing System）是一种用于收集不同深度的浮游生物样本的系统。通过MOC1设备，研究人员能够获取分层的浮游生物数据，包括生物量、物种组成和丰度等关键信息。 |
 | [Image dataset of common benthic foraminifera in surface sediments of the North Atlantic Ocean](https://doi.org/10.1016/j.dib.2019.104554) |     在26个抓取站收集的表层沉积物中106个底栖有孔虫分类群      |
+
+### 海洋生化元素数据集下载
+
+|                          数据集名称                          |                          数据集简介                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|[ rockfish_casts_2010.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdFedRockfishCtd/)|用于研究海洋生态系统，尤其是研究岩鱼栖息地|
+|[ MW2012057_2012070_cdom.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMWcflh1day/)|数据集提供了 2012 年 Julian Days 57 和 70 之间收集的发色溶解有机物 （CDOM） 的观测数据|
+|[ Globec_bottle_data_2002.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdGlobecBottle/)|该数据集提供了在 2002 年全球海洋生态系统动力学 （GLOBEC） 项目期间收集的观测数据|
+|[ A2003092.L3m_DAY_CHL_chlor_a_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMH1chla1day/A2003092.L3m_DAY_CHL_chlor_a_4km.nc
+)|该数据集包含空间分辨率为 4 公里的每日叶绿素 a 浓度数据|
+| [A2012001.L3m_DAY_PIC_pic_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPIC1day_Lon0360/2012/A2012001.L3m_DAY_PIC_pic_4km.nc)|该数据集按纬度、经度和时间维度进行组织，其中变量表示颗粒无机碳浓度|
+| [A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc)|该数据集按纬度、经度和时间维度进行组织，其中变量表示有机碳颗粒浓度|
+| [Chlorophyll-a, Aqua MODIS, NPP, 0.0125 degrees, Gulf of Mexico, EXPERIMENTAL](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMGchlamday/)|数据集提供了墨西哥湾地区的叶绿素-a浓度信息|
+ 
+
 
 
 
