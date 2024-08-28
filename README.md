@@ -156,7 +156,7 @@
 #### 🌟A2003092.L3m_DAY_CHL_chlor_a_4km.nc
 **数据集摘要**:该数据集包含空间分辨率为 4 公里的每日叶绿素 a 浓度数据。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240828172748.png)
-**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMH1chla1day/A2003092.L3m_DAY_CHL_chlor_a_4km.nc
+**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc
 
 #### 🌟A2012001.L3m_DAY_PIC_pic_4km.nc
 **数据集摘要**：该数据集按纬度、经度和时间维度进行组织，其中变量表示颗粒无机碳浓度。这些数据对于了解海洋碳动力学、钙化生物及其在全球生物地球化学循环中的作用很有价值。
@@ -201,8 +201,7 @@
 |[ rockfish_casts_2010.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdFedRockfishCtd/)|用于研究海洋生态系统，尤其是研究岩鱼栖息地|
 |[ MW2012057_2012070_cdom.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMWcflh1day/)|数据集提供了 2012 年 Julian Days 57 和 70 之间收集的发色溶解有机物 （CDOM） 的观测数据|
 |[ Globec_bottle_data_2002.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdGlobecBottle/)|该数据集提供了在 2002 年全球海洋生态系统动力学 （GLOBEC） 项目期间收集的观测数据|
-| [A2003092.L3m_DAY_CHL_chlor_a_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMH1chla1day/A2003092.L3m_DAY_CHL_chlor_a_4km.nc
-)|该数据集包含空间分辨率为 4 公里的每日叶绿素 a 浓度数据|
+| [A2003092.L3m_DAY_CHL_chlor_a_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc)|该数据集包含空间分辨率为 4 公里的每日叶绿素 a 浓度数据|
 | [A2012001.L3m_DAY_PIC_pic_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPIC1day_Lon0360/2012/A2012001.L3m_DAY_PIC_pic_4km.nc)|该数据集按纬度、经度和时间维度进行组织，其中变量表示颗粒无机碳浓度|
 | [A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc)|该数据集按纬度、经度和时间维度进行组织，其中变量表示有机碳颗粒浓度|
 | [Chlorophyll-a, Aqua MODIS, NPP, 0.0125 degrees, Gulf of Mexico, EXPERIMENTAL](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMGchlamday/)|数据集提供了墨西哥湾地区的叶绿素-a浓度信息|
