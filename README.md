@@ -9,7 +9,9 @@
 
 > 水文数据：盐度、温度、浊度
 >
-> 生物数据：浮游植物、浮游动物、鱼类以及其他海洋生物
+> 生物数据：浮游动植物、鱼类及其他海洋生物
+>
+> 生化参数:硅酸盐、叶绿素、溶解氧等
 
 ### 海洋水文数据的调研
 #### **全球0.5度海洋盐度格点数据产品（Global ocean salinity grid data product with 0.5-degree spatial resolution）**
