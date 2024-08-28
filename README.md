@@ -66,27 +66,6 @@
 
 **下载链接** : http://msdc.qdio.ac.cn/data/metadata-special-detail?id=9&otherId=3
 
-
-#### **全球0.5度海洋温度格点数据产品(Global ocean temperature grid data product with 0.5-degree spatial resolution)**
-
-**数据集摘要**：全球0.5度海洋温度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括XBT, CTD, Argo, Bottle, MBT, Glider, mooring等观测仪器。该数据应用了大气所提出的XBT数据偏差订正方案（CH14方案）对历史XBT数据进行偏差订正。同时，使用了大气所提出的插值方法（Mapping：改进的集合最优插值）对数据进行空间插值，该方法利用CMIP5多模式的历史模拟和高分辨率样本提供动力集合样本。
-
-**基本信息**：
-
-时间范围：1960/01-2020/12			水平分辨率：0.5°x0.5°
-
-空间区域：全球					    垂直分辨率：0-2000米，共41层
-
-经度范围：180°W~180°E			     时间分辨率：月平均
-
-纬度范围：90°S~90°N				  存储格式：nc
-
-要素信息：温度					     关键词：温度；全球；全球变化
-
-![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/Temp_10m_2020_01-1636567791928.png)
-
-**下载链接**：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456577680076988418&otherId=1456577680144097281
-
 #### **全球0.1度高分辨率海洋环流模式HYCOM数据产品（HYCOM Global 0.1-degree high-resolution ocean circulation model data products）**
 
 **数据集摘要**：该数据集是基于HYCOM2.3.01高分辨率准全球海洋模式，对全球温度、盐度、环流的模拟结果。该模式的空间范围为75°S-75°N，纬向与经向分辨率均为0.1°，垂向50层，时间分辨率为30日平均。采用ETOPO1数据改进模式地形，利用ERA5逐时大气变量驱动CTRL实验。
