@@ -194,7 +194,7 @@
 | [GLOBEC NEP MOCNESS Plankton (MOC1) Data, 2000-2002](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/erdGlobecMoc1/) | MOCNESS（Multiple Opening/Closing Net and Environmental Sensing System）是一种用于收集不同深度的浮游生物样本的系统。通过MOC1设备，研究人员能够获取分层的浮游生物数据，包括生物量、物种组成和丰度等关键信息。 |
 | [Image dataset of common benthic foraminifera in surface sediments of the North Atlantic Ocean](https://doi.org/10.1016/j.dib.2019.104554) |     在26个抓取站收集的表层沉积物中106个底栖有孔虫分类群      |
 
-### 海洋生化元素数据集下载
+### 海洋生化参数数据集下载
 
 |                          数据集名称                          |                          数据集简介                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
