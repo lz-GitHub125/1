@@ -13,7 +13,7 @@
 >
 > 生化参数:硅酸盐、叶绿素、溶解氧等
 
-### 海洋水文数据的调研
+### 海洋水文数据调研
 #### **全球0.5度海洋盐度格点数据产品（Global ocean salinity grid data product with 0.5-degree spatial resolution）**
 
 **数据集摘要** ：全球0.5度海洋盐度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括CTD, Argo, Bottle, Glider, mooring等观测仪器。该数据集主要基于大气所提出的集合最优插值方法对数据进行空间插值，该方法利用CMIP5多模式的历史模拟和高分辨率样本提供动力集合样本。
