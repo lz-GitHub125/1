@@ -169,6 +169,11 @@
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240828193900.png)
 **数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc
 
+#### 🌟Chlorophyll-a, Aqua MODIS, NPP, 0.0125°, West US, EXPERIMENTAL, 2002-present (Monthly Composite)
+**数据集摘要**:数据集提供了自2002年以来美国西部沿海地区的叶绿素-a浓度信息，基于Aqua卫星的MODIS数据生成，具有0.0125度的空间分辨率。数据为月度合成（Monthly Composite），适用于长期叶绿素-a变化趋势的研究。
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/20240828211824.png)
+**数据集下载**：https://coastwatch.pfeg.noaa.gov/erddap/files/erdMWchlamday/
+
 #### 🌟Chlorophyll-a, Aqua MODIS, NPP, 0.0125 degrees, Gulf of Mexico, EXPERIMENTAL
 **数据集摘要**:该数据集提供了墨西哥湾地区的叶绿素-a浓度信息，基于Aqua卫星的中分辨率成像光谱仪（MODIS）数据生成。叶绿素-a浓度是衡量水体中浮游植物丰度的重要指标，广泛应用于海洋初级生产力和生态系统健康研究。数据的空间分辨率为0.0125度，能够较为详细地反映墨西哥湾的叶绿素-a分布情况，时间分辨率通常为每日或更频繁。由于数据集为实验性（EXPERIMENTAL），在使用时需谨慎，建议结合其他数据集以确保结果的可靠性。
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/6d7036c4eef307c96f1db7dcf91373f.png)
@@ -207,6 +212,7 @@
 | [A2003092.L3m_DAY_CHL_chlor_a_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc)|该数据集包含空间分辨率为 4 公里的每日叶绿素 a 浓度数据|
 | [A2012001.L3m_DAY_PIC_pic_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPIC1day_Lon0360/2012/A2012001.L3m_DAY_PIC_pic_4km.nc)|该数据集按纬度、经度和时间维度进行组织，其中变量表示颗粒无机碳浓度|
 | [A2012001.L3m_DAY_POC_poc_4km.nc](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMPOC1day_Lon0360/2012/A2012001.L3m_DAY_POC_poc_4km.nc)|该数据集按纬度、经度和时间维度进行组织，其中变量表示有机碳颗粒浓度|
+| [Chlorophyll-a, Aqua MODIS, NPP, 0.0125°, West US, EXPERIMENTAL, 2002-present (Monthly Composite)](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMWchlamday/)|数据集提供了墨西哥湾地区的叶绿素-a浓度信息|
 | [Chlorophyll-a, Aqua MODIS, NPP, 0.0125 degrees, Gulf of Mexico, EXPERIMENTAL](https://coastwatch.pfeg.noaa.gov/erddap/files/erdMGchlamday/)|数据集提供了墨西哥湾地区的叶绿素-a浓度信息|
  
 
