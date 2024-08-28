@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/33701c8e-f7c7-41d3-9a20-c3ab68533080)# awesome-seafloor-dataset-method
+
 ## 我们的海洋调研工作
 
 **海洋数据集研究综述** 海洋数据集在海洋研究中具有重要意义。通过分析这些数据，我们可以深入了解海洋生物分布以及环境变化等方面的信息。主要的数据集来源包括GEBCO、NOAA和SRTM等，它们提供了高分辨率的全球海洋水文和气象数据。
